@@ -1,8 +1,9 @@
 name: "Hello world"
 description: "My first real add-on!"
-version: "1.0.0"
+version: "1.0.1"
 slug: "hello_world"
 init: false
+image: nipar44/predbat_addon:1.3.2
 arch:
   - aarch64
   - amd64
